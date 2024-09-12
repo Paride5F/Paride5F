@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <!--
 **Paride5F/Paride5F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
